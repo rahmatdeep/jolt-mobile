@@ -1,5 +1,5 @@
 {
-  "name": "my-turborepo",
+  "name": "jolt-mobile",
   "private": true,
   "scripts": {
     "build": "turbo run build",
